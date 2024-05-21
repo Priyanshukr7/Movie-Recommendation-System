@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+This is a content-based recommender system designed to help users discover movies tailored to their tastes. This system analyzes the content of movies such as genres, plot summaries, cast, and other relevant features and provides personalized movie recommendations, displaying movie titles and posters for an engaging user experience. The recommendations are generated based on the similarity of user-selected movies to a vast database of film titles, ensuring that users receive relevant and interesting suggestions.
